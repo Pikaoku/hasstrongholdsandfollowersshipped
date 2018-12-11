@@ -55,13 +55,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="92" />
+          <entry key="html" value="232" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="92" />
+          <entry key="HTML" value="232" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -82,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3510" selection-start-column="3510" selection-end-column="3510" />
+              <caret column="3603" selection-start-column="3603" selection-end-column="3603" />
             </state>
           </provider>
         </entry>
@@ -254,7 +254,7 @@
       <workItem from="1538317349838" duration="17000" />
       <workItem from="1539185976491" duration="649000" />
       <workItem from="1543354499093" duration="316000" />
-      <workItem from="1544493433684" duration="335000" />
+      <workItem from="1544493433684" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="add PDF ETA">
       <created>1535786991183</created>
@@ -281,7 +281,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15204000" />
+    <option name="totallyTimeSpent" value="15629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="112" y="22" width="1644" height="1407" extended-state="0" />
@@ -325,7 +325,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3510" selection-start-column="3510" selection-end-column="3510" />
+          <caret column="3603" selection-start-column="3603" selection-end-column="3603" />
         </state>
       </provider>
     </entry>
