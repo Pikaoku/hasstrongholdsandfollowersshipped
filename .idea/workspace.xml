@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a315924c-e898-4f09-a73a-260a457976f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a315924c-e898-4f09-a73a-260a457976f4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     <session id="-1716560880">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.6" value="1" />
@@ -81,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3478" selection-start-column="3478" selection-end-column="3478" />
+              <caret column="3479" lean-forward="true" selection-start-column="3479" selection-end-column="3479" />
             </state>
           </provider>
         </entry>
@@ -253,7 +251,7 @@
       <workItem from="1538317349838" duration="17000" />
       <workItem from="1539185976491" duration="649000" />
       <workItem from="1543354499093" duration="316000" />
-      <workItem from="1544493433684" duration="936000" />
+      <workItem from="1544493433684" duration="1092000" />
     </task>
     <task id="LOCAL-00001" summary="add PDF ETA">
       <created>1535786991183</created>
@@ -280,7 +278,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15805000" />
+    <option name="totallyTimeSpent" value="15961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="112" y="22" width="1644" height="1407" extended-state="0" />
@@ -324,7 +322,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3478" selection-start-column="3478" selection-end-column="3478" />
+          <caret column="3479" lean-forward="true" selection-start-column="3479" selection-end-column="3479" />
         </state>
       </provider>
     </entry>
